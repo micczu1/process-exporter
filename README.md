@@ -3,7 +3,7 @@
 
 ## Description
 
-Prometheus exporter that mines /proc to report on selected processes.
+Ansible role for install Prometheus exporter that mines /proc to report on selected processes.
 
 ## Role Variables
 
