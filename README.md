@@ -341,5 +341,5 @@ An example Grafana dashboard to view the metrics is available at https://grafana
 
 This project is licensed under MIT License. See [LICENSE](/LICENSE) for more details.
 
-This role is inspired by https://github.com/cloudalchemy/ansible-mysqld-exporter
+This role is inspired by https://github.com/cloudalchemy/ansible-mysqld-exporter  
 Process-exporter is created by ncabatoff (https://github.com/ncabatoff/process-exporter) and this is only wrap-up in Ansible role.
