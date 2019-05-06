@@ -337,9 +337,7 @@ minimal: each time a scrape occurs, it will parse of /proc/$pid/stat and
 
 An example Grafana dashboard to view the metrics is available at https://grafana.net/dashboards/249
 
-## License
-
-This project is licensed under MIT License. See [LICENSE](/LICENSE) for more details.
+## Credits
 
 This role is inspired by https://github.com/cloudalchemy/ansible-mysqld-exporter  
 Process-exporter is created by ncabatoff (https://github.com/ncabatoff/process-exporter) and this is only wrap-up in Ansible role.
